@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10",
-    "react-native-picker-android": "https://github.com/jclalala/react-native-picker-android.git#1.0.5"
+    "react-native-picker-android": "https://github.com/Windyuye/react-native-picker-android.git#1.0.6"
   },
   "engines": {
     "node": ">=4"
